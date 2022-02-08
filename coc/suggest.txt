@@ -1,0 +1,2 @@
+|launch.sh|file
+pol|polybar|file

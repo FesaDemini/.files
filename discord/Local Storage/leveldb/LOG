@@ -1,0 +1,6 @@
+2022/02/08-13:01:57.594 1c2f Reusing MANIFEST /home/clark/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/02/08-13:01:57.595 1c2f Recovering log #12
+2022/02/08-13:01:57.595 1c2f Reusing old log /home/clark/.config/discord/Local Storage/leveldb/000012.log 
+2022/02/08-13:06:09.907 1c2c Level-0 table #15: started
+2022/02/08-13:06:10.035 1c2c Level-0 table #15: 196439 bytes OK
+2022/02/08-13:06:10.073 1c2c Delete type=0 #12

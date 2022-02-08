@@ -1,0 +1,41 @@
+{
+   "checksum": "590f08f33c05013d17ce1078529d5247",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13285059742126009",
+            "guid": "d25c130e-a919-4882-a052-06f1771b86bf",
+            "id": "8",
+            "name": "Made With Matt - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCHgS0H3T3459H1e9QWK_Ezg"
+         } ],
+         "date_added": "13288757933421721",
+         "date_modified": "13288757949377198",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13288757933421729",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13288757933421731",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAolXvd9cFACEAolXvd9cFADIYChYIAhHBvE4AeNcFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJAKJV73fXBQAhAKJV73fXBQAyGAoWCAIRwbxOAHjXBQAYACEAAAAAAAAAACAASNuhqbjtL3Dboam47S8SACABKhhjWjB4L1Z1Uncvb2xlMnl5Z0FIYVVRPT0SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5c2MvMTZoWmlzVFhhZit2aXVIaWVZM1FpZzVhSVhucTZpNFVMbllTVk9kVGVxOGtuWGE2cVhsSlpuc29iaWtZajRwVXk4dHdHcXVjTEFJbXdPbUt6MmcrVndhQT09GAAgACgAMN/FzNT87vUCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS6wEICBLmAQocSFpFcE42eDgzU3FnbHBCd0dOdTBjcDh4bks0PRJmWjpBRHF0QVp6WTZqR05vdjJ4bXR1MExMVk5pUHBwVS9XRkRJUk5oS0poSHRWR1hRcjMrT05aQ0RTU3VQZk1kNmI4ZjZtc2VRdm8vanFaU0xmLzJodWZQOXJ4bmQ0NkRrYm9WUT09GAAgAigCMNauhNb87vUCOJ+Z4NXfL0DqlPK37S9KHDAySk9BWWp6U0w1SkY3OHVWMVlaMm1QV3VoMD1aHiIcZGgvZ1ZoV2dVWWJoY2xVekozWHUxSkpZNlNFPWU4+TkzEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFadzVQb1lnbEZDTDdqOTRPU1pqUVpmWjg5dUhUVHlzdGxIUnptWXMvRTJTY0VyUTNiV0VMR0dIU21kblNyWndVaWhKdEJLaxgAIAAoADDfxczU/O71AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaejI2N1Jyb1ltT1pXZzhhaHphSk5LdXZTQ1U4YjJ5TzZaOTBaQUhCcGRBUUdpN0NORitBRWdIY2hOa1NzZURWTEtrN1UxUFEwMkVlWUwvVzRXQjZXbERJZE1iYUE9PRgAIAAoADDfxczU/O71AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAIPWQqbjtLzABOAA=",
+   "version": 1
+}
